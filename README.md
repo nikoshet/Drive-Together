@@ -13,21 +13,27 @@ trip for the users.
 * CSS
 * JQUERY
 * BOOTSTRAP
-* ANIMATE.CSS
 * PHP
 * SQL
+* ANIMATE.CSS
 * Google Maps API
 * Google Cloud Translation API
 * sSMTP server
 
 
-###
-To-Do:
+
+
+#
+#### To-Do:
 * Complete paying system
 * Comment section
 
 
+
+#
 [ Currently available [Here](http://drivetogether.ddns.net:9000/) ]
 
-###
+
+
+#
 If anybody is reading this any feedback is deeply appreciated. Cheers!
