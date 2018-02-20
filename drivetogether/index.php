@@ -2,7 +2,7 @@
 	define('concom',1);
     require('common.php');
     require('updateRecommendedTrips.php');
-?> 
+?>    
 <!doctype html>
 <html lang="en">
   <head>
