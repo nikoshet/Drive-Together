@@ -1,5 +1,5 @@
 # Drive-Together
-I did this project for my course "Web Development". 
+I did this project for the course "Web Development" that i attended. 
 It's an almost complete website that offers carpooling services to drivers and to 
 passengers,with the aim of lowering the costs of travelling and offering a better and easier 
 trip for the users.
