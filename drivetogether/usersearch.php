@@ -1,8 +1,8 @@
 <?php
 
 $host = "localhost"; /* Host name */
-$user = "root"; /* User */
-$password = "root"; /* Password */
+$user = ""; /* User */
+$password = ""; /* Password */
 $dbname = "drive_together"; /* Database name */
 
 $con = mysqli_connect($host, $user, $password,$dbname);
