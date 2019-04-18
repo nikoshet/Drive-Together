@@ -1,4 +1,4 @@
-This program is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.# Drive-Together
+# Drive-Together
 I did this project for the course "Web Development" that i attended. 
 It's an almost complete website that offers carpooling services to drivers and to 
 passengers,with the aim of lowering the costs of travelling and offering a better and easier 
